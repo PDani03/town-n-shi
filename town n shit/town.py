@@ -1,12 +1,3 @@
-'''
-you have a town and money, and you can go adventuring and bring back stuff (everytime you enter the town the game saves), 
-and you can sell the stuff you got for money and you can buy upgrades and such with said money
-
-inventory system? megvan tesa
-
-boss fight!, re-balance
-'''
-
 import random
 
 def mely():
